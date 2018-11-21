@@ -11,7 +11,7 @@ description: b2evolution is a full-featured CMS with complete data schema config
 ---
 ## b2evolution CMS: The most integrated CMS ever
 
-b2evolution is a Content Management System aimed at making it easy to build and maintain websites for sharing information and collaborating with your community.
+b2evolution is a Content Management System aimed at making it easy to build and maintain websites for sharing information and collaborating with your community.test
 
 From a simple homepage to a blog, a photo gallery or a newsletter... all the way up to a full-featured community site with forums, members directory and private messaging, b2evolution includes everything you need in a single integrated package (which saves you time on setup and upgrades).
 
